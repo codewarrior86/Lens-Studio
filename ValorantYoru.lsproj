@@ -1,0 +1,3447 @@
+{
+    "lens_id": "",
+    "document_id": "YlfdCG3Q6HRYljw5QdgB",
+    "original_document_id": "YlfdCG3Q6HRYljw5QdgB",
+    "version": "28",
+    "lastChanged": "1637474234492",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Bird"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Bird",
+                        "bird"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Bird",
+                        "bird_cheeks"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Bird",
+                        "bird_lips_1"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Bird",
+                        "bird_lips_2"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Dripping"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Dripping",
+                        "dripping"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Dripping",
+                        "dripping_cheeks"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Dripping",
+                        "dripping_lips"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Flower"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Flower",
+                        "flower_cheeks"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Flower",
+                        "flower_lips"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Flower",
+                        "flowers"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Koi"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Koi",
+                        "koi"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Koi",
+                        "koi_cheeks"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Koi",
+                        "koi_lips"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Paint",
+                        "masker_yoru"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Paint",
+                        "mata_yoru"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Paint",
+                        "paint"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Paint",
+                        "paint_lips"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Swan",
+                        "swan"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Swan",
+                        "swan_cheeks"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Swan",
+                        "swan_eye_color"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Swan",
+                        "swan_lips"
+                    ],
+                    [
+                        "Frost"
+                    ],
+                    [
+                        "Hologram"
+                    ],
+                    [
+                        "Portrait Background Segmentation"
+                    ],
+                    [
+                        "Simple Emitter VFX"
+                    ],
+                    [
+                        "Textures",
+                        "Face Substitution Points"
+                    ],
+                    [
+                        "Textures",
+                        "Face Substitution Points",
+                        "Eye"
+                    ],
+                    [
+                        "Textures",
+                        "Face Substitution Points",
+                        "Full"
+                    ],
+                    [
+                        "Textures",
+                        "Face Substitution Points",
+                        "Lips"
+                    ],
+                    [
+                        "Textures",
+                        "Particles Texture"
+                    ],
+                    [
+                        "portal yoru - portrait"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1495032264252211:307",
+                    "1517441814990953:60249",
+                    "1518738368871047:5072",
+                    "1518738620434896:6325",
+                    "1518739920773388:14636",
+                    "1518740425092533:30109",
+                    "1518742391821707:46940",
+                    "1518819922774689:6051",
+                    "1518819930409093:6924",
+                    "1520544465201565:102906",
+                    "1521490875811835:53517",
+                    "1521491246967963:55784",
+                    "1521494175809770:9532",
+                    "1521494391227878:18381",
+                    "1521494580408207:33027",
+                    "1521495292005641:46725",
+                    "1521495518155367:60883",
+                    "1522715350125018:54292",
+                    "1522715649357667:76002",
+                    "1522715685110476:86670",
+                    "1522715741066050:102946",
+                    "1522715758731286:105644",
+                    "1522715790065744:119842"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "9c4fe4170c04e9739417149229ebcfe4",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Valorant Yoru Mask",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "HermosaUseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 3.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1518738355038666:4975",
+                    "1518810897835563:17108",
+                    "1518820769291880:4742",
+                    "1518827517865368:16589",
+                    "1518829714010749:22806",
+                    "1521488619528459:18364",
+                    "1521489603228781:38586",
+                    "1521489615677105:40162",
+                    "1521490042715772:45879",
+                    "1521657197245321:130044",
+                    "1521657247014955:132210",
+                    "1521689616150571:3805",
+                    "1522715354903623:54305",
+                    "1522715372577759:56331",
+                    "1522715469525743:59251",
+                    "1637468234432133:243845"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1637466970956280:89465"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "1637471973413080:653228"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1518738344742791:4932",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1518738651839670:6580",
+                    "name": "\/Resources\/Resource18.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1518738651915459:6593",
+                    "name": "\/Resources\/Resource19.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1518738651954089:6608",
+                    "name": "\/Resources\/Resource20.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1518738652009963:6623",
+                    "name": "\/Resources\/Resource21.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1518739136432964:9185",
+                    "name": "\/Resources\/Resource30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1518739185435735:9278",
+                    "name": "\/Resources\/Resource31.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1518739899277697:14617",
+                    "name": "\/Resources\/Resource34.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1518740216803673:28876",
+                    "name": "\/Resources\/Resource40.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1518740262107333:29196",
+                    "name": "\/Resources\/Resource41.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1518740799102817:30820",
+                    "name": "\/Resources\/Resource47.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1518741129529720:45711",
+                    "name": "\/Resources\/Resource51.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1518741163654405:45773",
+                    "name": "\/Resources\/Resource52.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1518741180955038:45785",
+                    "name": "\/Resources\/Resource53.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1518742446175688:47885",
+                    "name": "\/Resources\/Resource62.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1518742519335139:48363",
+                    "name": "\/Resources\/Resource63.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1518742580946700:48680",
+                    "name": "\/Resources\/Resource64.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "72",
+                    "uid": "1518811229378439:22196",
+                    "name": "\/Resources\/Resource72.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "129",
+                    "uid": "1521495337531062:53457",
+                    "name": "\/Resources\/Resource129.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "137",
+                    "uid": "1521592506041362:29488",
+                    "name": "\/Resources\/Resource137.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "138",
+                    "uid": "1521592506123858:29501",
+                    "name": "\/Resources\/Resource138.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "139",
+                    "uid": "1521592506217607:29514",
+                    "name": "\/Resources\/Resource139.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "143",
+                    "uid": "1588127678375840:292240",
+                    "name": "Files\/File25.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "144",
+                    "uid": "1588127678391266:292247",
+                    "name": "Files\/File27.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "145",
+                    "uid": "1637466576331316:49251",
+                    "name": "Files\/File96.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "146",
+                    "uid": "1637466970956280:89465",
+                    "name": "Files\/File102",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "155",
+                    "uid": "1637468485176907:276857",
+                    "name": "Files\/File114.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "156",
+                    "uid": "1637469370367808:365492",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "158",
+                    "uid": "1637471513712512:616270",
+                    "name": "Files\/File128.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "159",
+                    "uid": "1637471973413080:653228",
+                    "name": "Files\/File132",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "160",
+                    "uid": "1637471973891208:653323",
+                    "name": "Files\/File134.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "161",
+                    "uid": "1637471973994871:653339",
+                    "name": "Files\/File137",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "162",
+                    "uid": "1637471974195095:653356",
+                    "name": "Files\/File139",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "163",
+                    "uid": "1637471974344663:653373",
+                    "name": "Files\/File141",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "164",
+                    "uid": "1637471974484131:653390",
+                    "name": "Files\/File143.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "165",
+                    "uid": "1637472543016067:690888",
+                    "name": "Files\/File145.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1637469359549257:361599",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517441814990953:60249",
+                "1": "1517441814991005:60252",
+                "2": "1517441814991119:60258",
+                "3": "1518738355034989:4972",
+                "4": "1520544465201565:102906",
+                "5": "1521490866434626:52742",
+                "6": "1521689616150571:3805",
+                "7": "1522715350125018:54292",
+                "8": "1522715354903623:54305",
+                "9": "1522715372577759:56331",
+                "10": "1522715469525743:59251",
+                "11": "1522715568286999:62089",
+                "12": "1522715598855322:65724",
+                "13": "1522715616001179:69442",
+                "14": "1522715649357667:76002",
+                "15": "1522715662753555:76289",
+                "16": "1522715662757773:76316",
+                "17": "1522715665791548:78065",
+                "18": "1522715665795005:78092",
+                "19": "1522715685110476:86670",
+                "20": "1522715695335470:86818",
+                "21": "1522715696023070:87770",
+                "22": "1522715697766320:90363",
+                "23": "1522715727693154:95243",
+                "24": "1522715728351084:96218",
+                "25": "1522715730638207:98980",
+                "26": "1522715734084185:100908",
+                "27": "1522715741066050:102946",
+                "28": "1522715758731286:105644",
+                "29": "1522715765445666:105713",
+                "30": "1522715766426949:106737",
+                "31": "1522715767564800:108614",
+                "32": "1522715782230900:112797",
+                "33": "1522715783330365:114039",
+                "34": "1522715786036493:117754",
+                "35": "1522715790065744:119842",
+                "36": "1637466553182850:45021",
+                "37": "1637468234432133:243845",
+                "38": "1637469359456551:361397",
+                "39": "1637469359470632:361459",
+                "40": "1637469359548973:361598",
+                "41": "1637471973385792:653219",
+                "42": "1637472542487445:690819"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.pvr"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.pvr"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.pvr"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.pvr"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.pvr"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.pvr"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.pvr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.pvr"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.pvr"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.pvr"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.pvr"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.pvr"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.pvr"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.pvr"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.pvr"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.pvr"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.pvr"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.pvr"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.pvr"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.pvr"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.pvr"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.pvr"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.jpeg"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.jpeg"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.jpeg"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.jpeg"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.hdr"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.png"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.png"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.png"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.png"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.png"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.png"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.png"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.png"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.png"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.png"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.png"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.png"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.png"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.png"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.png"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.png"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.png"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.png"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.png"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.png"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.png"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.png"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.png"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.png"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.png"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.png"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.png"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.png"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.png"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.png"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.pvr"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.pvr"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.pvr"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.pvr"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.pvr"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.pvr"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.pvr"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.pvr"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.pvr"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.pvr"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.pvr"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.pvr"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.pvr"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.pvr"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.pvr"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.pvr"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.pvr"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.pvr"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.pvr"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.pvr"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.pvr"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.pvr"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.pvr"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.png"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.png"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.pvr"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.lsmat"
+                },
+                {
+                    "k": "114",
+                    "v": "Files\/File114.pvr"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115.png"
+                },
+                {
+                    "k": "122",
+                    "v": "Files\/File122.png"
+                },
+                {
+                    "k": "123",
+                    "v": "Files\/File123.pvr"
+                },
+                {
+                    "k": "128",
+                    "v": "Files\/File128.jpg"
+                },
+                {
+                    "k": "129",
+                    "v": "Files\/File129.jpg"
+                },
+                {
+                    "k": "130",
+                    "v": "Files\/File130.jpg"
+                },
+                {
+                    "k": "131",
+                    "v": "Files\/File131.jpg"
+                },
+                {
+                    "k": "132",
+                    "v": "Files\/File132"
+                },
+                {
+                    "k": "133",
+                    "v": "Files\/File133.lsvfx"
+                },
+                {
+                    "k": "134",
+                    "v": "Files\/File134.pvr"
+                },
+                {
+                    "k": "135",
+                    "v": "Files\/File135.png"
+                },
+                {
+                    "k": "136",
+                    "v": "Files\/File136.png"
+                },
+                {
+                    "k": "137",
+                    "v": "Files\/File137"
+                },
+                {
+                    "k": "138",
+                    "v": "Files\/File138.lsmat"
+                },
+                {
+                    "k": "139",
+                    "v": "Files\/File139"
+                },
+                {
+                    "k": "140",
+                    "v": "Files\/File140.lsmat"
+                },
+                {
+                    "k": "141",
+                    "v": "Files\/File141"
+                },
+                {
+                    "k": "142",
+                    "v": "Files\/File142.lsmat"
+                },
+                {
+                    "k": "143",
+                    "v": "Files\/File143.js"
+                },
+                {
+                    "k": "144",
+                    "v": "Files\/File144.pvr"
+                },
+                {
+                    "k": "145",
+                    "v": "Files\/File145.png"
+                },
+                {
+                    "k": "146",
+                    "v": "Files\/File146.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Textures\/Face Substitution Points"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Textures\/Face Substitution Points\/Eye.png"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Textures\/Face Substitution Points\/Full.png"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Textures\/Face Substitution Points\/Lips.png"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Face Paint Template [REMOVE_ME]"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Face Paint Template [REMOVE_ME]\/Paint"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Face Paint Template [REMOVE_ME]\/Paint\/paint.png"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Face Paint Template [REMOVE_ME]\/Paint\/paint_lips.png"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Face Paint Template [REMOVE_ME]\/Koi"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Face Paint Template [REMOVE_ME]\/Koi\/koi.png"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Face Paint Template [REMOVE_ME]\/Koi\/koi_lips.png"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Face Paint Template [REMOVE_ME]\/Koi\/koi_cheeks.png"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Face Paint Template [REMOVE_ME]\/Flower"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Face Paint Template [REMOVE_ME]\/Flower\/flowers.png"
+                    },
+                    {
+                        "k": "18",
+                        "v": "Face Paint Template [REMOVE_ME]\/Flower\/flower_cheeks.png"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Face Paint Template [REMOVE_ME]\/Flower\/flower_lips.png"
+                    },
+                    {
+                        "k": "20",
+                        "v": "Face Paint Template [REMOVE_ME]\/Bird"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Face Paint Template [REMOVE_ME]\/Bird\/bird.png"
+                    },
+                    {
+                        "k": "22",
+                        "v": "Face Paint Template [REMOVE_ME]\/Bird\/bird_cheeks.png"
+                    },
+                    {
+                        "k": "23",
+                        "v": "Face Paint Template [REMOVE_ME]\/Bird\/bird_lips_1.png"
+                    },
+                    {
+                        "k": "24",
+                        "v": "Face Paint Template [REMOVE_ME]\/Bird\/bird_lips_2.png"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Face Paint Template [REMOVE_ME]\/Dripping"
+                    },
+                    {
+                        "k": "26",
+                        "v": "Face Paint Template [REMOVE_ME]\/Dripping\/dripping.png"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Face Paint Template [REMOVE_ME]\/Dripping\/dripping_lips.png"
+                    },
+                    {
+                        "k": "28",
+                        "v": "Face Paint Template [REMOVE_ME]\/Dripping\/dripping_cheeks.png"
+                    },
+                    {
+                        "k": "29",
+                        "v": "Face Paint Template [REMOVE_ME]\/Swan"
+                    },
+                    {
+                        "k": "30",
+                        "v": "Face Paint Template [REMOVE_ME]\/Swan\/swan.png"
+                    },
+                    {
+                        "k": "31",
+                        "v": "Face Paint Template [REMOVE_ME]\/Swan\/swan_cheeks.png"
+                    },
+                    {
+                        "k": "32",
+                        "v": "Face Paint Template [REMOVE_ME]\/Swan\/swan_eye_color.png"
+                    },
+                    {
+                        "k": "33",
+                        "v": "Face Paint Template [REMOVE_ME]\/Swan\/swan_lips.png"
+                    },
+                    {
+                        "k": "634",
+                        "v": "Textures\/echopark.hdr"
+                    },
+                    {
+                        "k": "635",
+                        "v": "Face Paint Template [REMOVE_ME]\/Paint\/masker_yoru.png"
+                    },
+                    {
+                        "k": "636",
+                        "v": "Hologram.lsmat"
+                    },
+                    {
+                        "k": "639",
+                        "v": "Face Paint Template [REMOVE_ME]\/Paint\/mata_yoru.png"
+                    },
+                    {
+                        "k": "641",
+                        "v": "portal yoru - portrait.jpg"
+                    },
+                    {
+                        "k": "642",
+                        "v": "Textures\/Particles Texture.png"
+                    },
+                    {
+                        "k": "644",
+                        "v": "Simple Emitter VFX.lsvfx"
+                    },
+                    {
+                        "k": "645",
+                        "v": "Frost.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "3",
+                        "v": "98b380616d4bfed1d0f4bc1dae59944a"
+                    },
+                    {
+                        "k": "4",
+                        "v": "11f4d5b93501561a110fa6434d320c06"
+                    },
+                    {
+                        "k": "5",
+                        "v": "c3712766256cc2c114e8e8f697694047"
+                    },
+                    {
+                        "k": "6",
+                        "v": "311a76924cee5e58d7271449b3bd1b2e"
+                    },
+                    {
+                        "k": "7",
+                        "v": "f52bc2d64df8998994aa36365eddbf6f"
+                    },
+                    {
+                        "k": "10",
+                        "v": "2f118712bba6583028996fc0c2486420"
+                    },
+                    {
+                        "k": "11",
+                        "v": "dfd7e5f0597cb26a02ad1d960b016843"
+                    },
+                    {
+                        "k": "13",
+                        "v": "bb09e3e1c8c09f13e9bd555cfa7db133"
+                    },
+                    {
+                        "k": "14",
+                        "v": "3349e862d602cd97ce11343ab4db2bb4"
+                    },
+                    {
+                        "k": "15",
+                        "v": "a8bbeb205ee118ae8a2238b3d17e7a88"
+                    },
+                    {
+                        "k": "17",
+                        "v": "e14237312b3bb7abbedc2134bdf55f33"
+                    },
+                    {
+                        "k": "18",
+                        "v": "a40ee5172258a770f833604756100e89"
+                    },
+                    {
+                        "k": "19",
+                        "v": "25b02f90d45fa85d25b0d5ec22c93381"
+                    },
+                    {
+                        "k": "21",
+                        "v": "756ee50b55f2a8dfd96546f78caa9510"
+                    },
+                    {
+                        "k": "22",
+                        "v": "a8bbeb205ee118ae8a2238b3d17e7a88"
+                    },
+                    {
+                        "k": "23",
+                        "v": "7077c307c97eac06ac748600338d5484"
+                    },
+                    {
+                        "k": "24",
+                        "v": "0381b263eef4ee605d3d3b8d78aed401"
+                    },
+                    {
+                        "k": "26",
+                        "v": "d62d8d2214c908b0de8492bb192106b8"
+                    },
+                    {
+                        "k": "27",
+                        "v": "0e40f7e6e676928371c0485da4113638"
+                    },
+                    {
+                        "k": "28",
+                        "v": "a8bbeb205ee118ae8a2238b3d17e7a88"
+                    },
+                    {
+                        "k": "30",
+                        "v": "97d2aa16a7c133c1312f46bc31496b9a"
+                    },
+                    {
+                        "k": "31",
+                        "v": "a8bbeb205ee118ae8a2238b3d17e7a88"
+                    },
+                    {
+                        "k": "32",
+                        "v": "027c5785a7afa5e0225d8930b8297867"
+                    },
+                    {
+                        "k": "33",
+                        "v": "700c853ad34480e6c8d973928d7d98a4"
+                    },
+                    {
+                        "k": "634",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "635",
+                        "v": "1abe4926135ef42e3baf678dc88ff576"
+                    },
+                    {
+                        "k": "636",
+                        "v": "5cee2ba454b3a95902019847feeb521d"
+                    },
+                    {
+                        "k": "637",
+                        "v": "91f9f09fa8dc299b5b4b36761d2ec90c"
+                    },
+                    {
+                        "k": "638",
+                        "v": "e9cd77b1bf3c5acc20a7349a48f3d9c0"
+                    },
+                    {
+                        "k": "639",
+                        "v": "018e9dfe21c1c957ff6febbc3570bb37"
+                    },
+                    {
+                        "k": "640",
+                        "v": "1340fcb8d66b23614ab0b44d339a9c2d"
+                    },
+                    {
+                        "k": "641",
+                        "v": "8565a9b3c047571c14e77b7d3b63e57b"
+                    },
+                    {
+                        "k": "642",
+                        "v": "92bbc0db9b88d58fd5538047917d20c8"
+                    },
+                    {
+                        "k": "643",
+                        "v": "da3c6de59ea77742705cc4dfef6be41c"
+                    },
+                    {
+                        "k": "644",
+                        "v": "027c3a151ebbe7f800064a6c4c8ea18c"
+                    },
+                    {
+                        "k": "645",
+                        "v": "a56d2e5d93d9ccfbea45ef7fc17e0644"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-11-21T12:40:54",
+                        "name": "Public",
+                        "hash": "fb67b670b2d0a038c4e1fca18f85dc7e",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-21T10:57:05",
+                                "name": "Face Paint Template [REMOVE_ME]",
+                                "hash": "3198d98a2f751175e67960cfe371988e",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-21T10:57:05",
+                                        "name": "Bird",
+                                        "hash": "3af705c25d977291a4648e10ff5a7947",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "bird.png",
+                                                "hash": "756ee50b55f2a8dfd96546f78caa9510",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "bird_cheeks.png",
+                                                "hash": "a8bbeb205ee118ae8a2238b3d17e7a88",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "bird_lips_1.png",
+                                                "hash": "7077c307c97eac06ac748600338d5484",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "bird_lips_2.png",
+                                                "hash": "0381b263eef4ee605d3d3b8d78aed401",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-21T10:57:05",
+                                        "name": "Dripping",
+                                        "hash": "a9ce924b0f82560c131cf70b8f0b74e8",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "dripping.png",
+                                                "hash": "d62d8d2214c908b0de8492bb192106b8",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "dripping_cheeks.png",
+                                                "hash": "a8bbeb205ee118ae8a2238b3d17e7a88",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "dripping_lips.png",
+                                                "hash": "0e40f7e6e676928371c0485da4113638",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-21T10:57:05",
+                                        "name": "Flower",
+                                        "hash": "0434cb110d1aed6e35a72bdccda9d95d",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "flowers.png",
+                                                "hash": "e14237312b3bb7abbedc2134bdf55f33",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "flower_cheeks.png",
+                                                "hash": "a40ee5172258a770f833604756100e89",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "flower_lips.png",
+                                                "hash": "25b02f90d45fa85d25b0d5ec22c93381",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-21T10:42:15",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-21T10:57:05",
+                                        "name": "Koi",
+                                        "hash": "aa09255a1bd9dbf08d2a457d24809f82",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "koi.png",
+                                                "hash": "bb09e3e1c8c09f13e9bd555cfa7db133",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "koi_cheeks.png",
+                                                "hash": "a8bbeb205ee118ae8a2238b3d17e7a88",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "koi_lips.png",
+                                                "hash": "3349e862d602cd97ce11343ab4db2bb4",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-21T11:29:53",
+                                        "name": "Paint",
+                                        "hash": "2bd2b71b102f261992e468a5e4113775",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:40:24",
+                                                "name": "masker_yoru.png",
+                                                "hash": "1abe4926135ef42e3baf678dc88ff576",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T11:29:45",
+                                                "name": "mata_yoru.png",
+                                                "hash": "018e9dfe21c1c957ff6febbc3570bb37",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "paint.png",
+                                                "hash": "2f118712bba6583028996fc0c2486420",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "paint_lips.png",
+                                                "hash": "dfd7e5f0597cb26a02ad1d960b016843",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-21T11:21:28",
+                                        "name": "Swan",
+                                        "hash": "9800ea9bf4c5a70102d7c6ee02e259a7",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "swan.png",
+                                                "hash": "97d2aa16a7c133c1312f46bc31496b9a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "swan_cheeks.png",
+                                                "hash": "a8bbeb205ee118ae8a2238b3d17e7a88",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "swan_eye_color.png",
+                                                "hash": "027c5785a7afa5e0225d8930b8297867",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "swan_lips.png",
+                                                "hash": "700c853ad34480e6c8d973928d7d98a4",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-21T10:42:15",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-02T09:34:32",
+                                "name": "Frost.png",
+                                "hash": "a56d2e5d93d9ccfbea45ef7fc17e0644",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-21T12:40:53",
+                                "name": "Hologram.lsmat",
+                                "hash": "2a8c90932024d183fdd0fae0a310d00f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-21T12:11:46",
+                                "name": "portal yoru - portrait.jpg",
+                                "hash": "8565a9b3c047571c14e77b7d3b63e57b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-21T12:40:54",
+                                "name": "Simple Emitter VFX.lsvfx",
+                                "hash": "8ad463969d4cb5790e7e0f3c90d09325",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-21T12:19:33",
+                                "name": "Textures",
+                                "hash": "150684a2ca0f775bbf870d4996d3e1ba",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-21T10:42:15",
+                                        "name": "echopark.hdr",
+                                        "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-21T10:57:05",
+                                        "name": "Face Substitution Points",
+                                        "hash": "0316dc8f1fb77950f082899eee61586e",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "Eye.png",
+                                                "hash": "98b380616d4bfed1d0f4bc1dae59944a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "Full.png",
+                                                "hash": "11f4d5b93501561a110fa6434d320c06",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-21T10:42:15",
+                                                "name": "Lips.png",
+                                                "hash": "c3712766256cc2c114e8e8f697694047",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-21T10:42:15",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-21T12:19:33",
+                                        "name": "Particles Texture.png",
+                                        "hash": "92bbc0db9b88d58fd5538047917d20c8",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Face Substitution Points",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Eye",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "137",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1521592506041362:29488",
+                                        "fileId": "20",
+                                        "originalId": "52",
+                                        "publicId": "3",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "98b380616d4bfed1d0f4bc1dae59944a"
+                                        }
+                                    },
+                                    {
+                                        "name": "Full",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "138",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1521592506123858:29501",
+                                        "fileId": "21",
+                                        "originalId": "53",
+                                        "publicId": "4",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "11f4d5b93501561a110fa6434d320c06"
+                                        }
+                                    },
+                                    {
+                                        "name": "Lips",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "139",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1521592506217607:29514",
+                                        "fileId": "22",
+                                        "originalId": "54",
+                                        "publicId": "5",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "c3712766256cc2c114e8e8f697694047"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark",
+                                "type": "9",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "29",
+                                "originalId": "18446744073709551615",
+                                "publicId": "634",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "143",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588127678375840:292240",
+                                        "fileId": "25",
+                                        "originalId": "26",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "144",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588127678391266:292247",
+                                        "fileId": "27",
+                                        "originalId": "28",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Particles Texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "160",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1637471973891208:653323",
+                                "fileId": "134",
+                                "originalId": "135",
+                                "publicId": "642",
+                                "source": "C:\/Users\/lenovo\/AppData\/Local\/Temp\/Lens Studio-WnpQma\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "92bbc0db9b88d58fd5538047917d20c8"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Face Paint Template [REMOVE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Paint",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "9",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "paint",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "8",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518738344742791:4932",
+                                        "fileId": "1",
+                                        "originalId": "55",
+                                        "publicId": "10",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "2f118712bba6583028996fc0c2486420"
+                                        }
+                                    },
+                                    {
+                                        "name": "paint_lips",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "72",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518811229378439:22196",
+                                        "fileId": "18",
+                                        "originalId": "56",
+                                        "publicId": "11",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "dfd7e5f0597cb26a02ad1d960b016843"
+                                        }
+                                    },
+                                    {
+                                        "name": "masker_yoru",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "145",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1637466576331316:49251",
+                                        "fileId": "96",
+                                        "originalId": "97",
+                                        "publicId": "635",
+                                        "source": "E:\/Lens Studio\/Yoru mask.png",
+                                        "additional": {
+                                            "originHash": "1abe4926135ef42e3baf678dc88ff576"
+                                        }
+                                    },
+                                    {
+                                        "name": "mata_yoru",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "155",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1637468485176907:276857",
+                                        "fileId": "114",
+                                        "originalId": "115",
+                                        "publicId": "639",
+                                        "source": "E:\/Lens Studio\/mata yoru3-kecil.png",
+                                        "additional": {
+                                            "originHash": "018e9dfe21c1c957ff6febbc3570bb37"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Koi",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "12",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "koi",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "30",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518739136432964:9185",
+                                        "fileId": "6",
+                                        "originalId": "57",
+                                        "publicId": "13",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "bb09e3e1c8c09f13e9bd555cfa7db133"
+                                        }
+                                    },
+                                    {
+                                        "name": "koi_lips",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "31",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518739185435735:9278",
+                                        "fileId": "7",
+                                        "originalId": "58",
+                                        "publicId": "14",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "3349e862d602cd97ce11343ab4db2bb4"
+                                        }
+                                    },
+                                    {
+                                        "name": "koi_cheeks",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "129",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1521495337531062:53457",
+                                        "fileId": "19",
+                                        "originalId": "59",
+                                        "publicId": "15",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "a8bbeb205ee118ae8a2238b3d17e7a88"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flower",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "16",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "flowers",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "34",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518739899277697:14617",
+                                        "fileId": "8",
+                                        "originalId": "60",
+                                        "publicId": "17",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "e14237312b3bb7abbedc2134bdf55f33"
+                                        }
+                                    },
+                                    {
+                                        "name": "flower_cheeks",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "40",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518740216803673:28876",
+                                        "fileId": "9",
+                                        "originalId": "61",
+                                        "publicId": "18",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "a40ee5172258a770f833604756100e89"
+                                        }
+                                    },
+                                    {
+                                        "name": "flower_lips",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "41",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518740262107333:29196",
+                                        "fileId": "10",
+                                        "originalId": "62",
+                                        "publicId": "19",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "25b02f90d45fa85d25b0d5ec22c93381"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bird",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "20",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "bird",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "47",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518740799102817:30820",
+                                        "fileId": "11",
+                                        "originalId": "63",
+                                        "publicId": "21",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "756ee50b55f2a8dfd96546f78caa9510"
+                                        }
+                                    },
+                                    {
+                                        "name": "bird_cheeks",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "51",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518741129529720:45711",
+                                        "fileId": "12",
+                                        "originalId": "64",
+                                        "publicId": "22",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "a8bbeb205ee118ae8a2238b3d17e7a88"
+                                        }
+                                    },
+                                    {
+                                        "name": "bird_lips_1",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "52",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518741163654405:45773",
+                                        "fileId": "13",
+                                        "originalId": "65",
+                                        "publicId": "23",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "7077c307c97eac06ac748600338d5484"
+                                        }
+                                    },
+                                    {
+                                        "name": "bird_lips_2",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "53",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518741180955038:45785",
+                                        "fileId": "14",
+                                        "originalId": "66",
+                                        "publicId": "24",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "0381b263eef4ee605d3d3b8d78aed401"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dripping",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "25",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "dripping",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "62",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518742446175688:47885",
+                                        "fileId": "15",
+                                        "originalId": "67",
+                                        "publicId": "26",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "d62d8d2214c908b0de8492bb192106b8"
+                                        }
+                                    },
+                                    {
+                                        "name": "dripping_lips",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "63",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518742519335139:48363",
+                                        "fileId": "16",
+                                        "originalId": "68",
+                                        "publicId": "27",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "0e40f7e6e676928371c0485da4113638"
+                                        }
+                                    },
+                                    {
+                                        "name": "dripping_cheeks",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "64",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518742580946700:48680",
+                                        "fileId": "17",
+                                        "originalId": "69",
+                                        "publicId": "28",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "a8bbeb205ee118ae8a2238b3d17e7a88"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Swan",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "swan",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "18",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518738651839670:6580",
+                                        "fileId": "2",
+                                        "originalId": "70",
+                                        "publicId": "30",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "97d2aa16a7c133c1312f46bc31496b9a"
+                                        }
+                                    },
+                                    {
+                                        "name": "swan_cheeks",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "19",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518738651915459:6593",
+                                        "fileId": "3",
+                                        "originalId": "71",
+                                        "publicId": "31",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "a8bbeb205ee118ae8a2238b3d17e7a88"
+                                        }
+                                    },
+                                    {
+                                        "name": "swan_eye_color",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518738651954089:6608",
+                                        "fileId": "4",
+                                        "originalId": "72",
+                                        "publicId": "32",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "027c5785a7afa5e0225d8930b8297867"
+                                        }
+                                    },
+                                    {
+                                        "name": "swan_lips",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "21",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1518738652009963:6623",
+                                        "fileId": "5",
+                                        "originalId": "73",
+                                        "publicId": "33",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "700c853ad34480e6c8d973928d7d98a4"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hologram",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "146",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1637466970956280:89465",
+                        "fileId": "102",
+                        "originalId": "103",
+                        "publicId": "636",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Portrait Background Segmentation",
+                        "type": "1",
+                        "subtype": "14",
+                        "resourceId": "156",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1637469370367808:365492",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "portal yoru - portrait",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "158",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1637471513712512:616270",
+                        "fileId": "128",
+                        "originalId": "129",
+                        "publicId": "641",
+                        "source": "E:\/Lens Studio\/portal yoru - portrait.jpg",
+                        "additional": {
+                            "originHash": "8565a9b3c047571c14e77b7d3b63e57b"
+                        }
+                    },
+                    {
+                        "name": "Simple Emitter VFX",
+                        "type": "23",
+                        "subtype": "0",
+                        "resourceId": "159",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "1637471973413080:653228",
+                        "fileId": "132",
+                        "originalId": "133",
+                        "publicId": "644",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "System 39",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "system_id": "39"
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Rendering",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "161",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1637471973994871:653339",
+                                        "fileId": "137",
+                                        "originalId": "138",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Feedback",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "162",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1637471974195095:653356",
+                                        "fileId": "139",
+                                        "originalId": "140",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Simulation",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "163",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1637471974344663:653373",
+                                        "fileId": "141",
+                                        "originalId": "142",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Managing",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "164",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1637471974484131:653390",
+                                        "fileId": "143",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "C:\/Users\/lenovo\/AppData\/Local\/Temp\/Lens Studio-WnpQma\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Frost",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "165",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1637472543016067:690888",
+                        "fileId": "145",
+                        "originalId": "146",
+                        "publicId": "645",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Frost.png",
+                        "additional": {
+                            "originHash": "a56d2e5d93d9ccfbea45ef7fc17e0644"
+                        }
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1518738344742791:4932",
+                    "v": {
+                        "infos": {
+                            "originalSize": "119487",
+                            "compressedSize": "207539",
+                            "originalRAM": "4198320",
+                            "compressedRAM": "526864",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "33",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "2f118712bba6583028996fc0c2486420",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "74"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518738651839670:6580",
+                    "v": {
+                        "infos": {
+                            "originalSize": "134197",
+                            "compressedSize": "35675",
+                            "originalRAM": "1410400",
+                            "compressedRAM": "177120",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "48",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "97d2aa16a7c133c1312f46bc31496b9a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "81"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518738651915459:6593",
+                    "v": {
+                        "infos": {
+                            "originalSize": "21203",
+                            "compressedSize": "63249",
+                            "originalRAM": "4198320",
+                            "compressedRAM": "526864",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "49",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a8bbeb205ee118ae8a2238b3d17e7a88",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "75"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518738651954089:6608",
+                    "v": {
+                        "infos": {
+                            "originalSize": "36677",
+                            "compressedSize": "19639",
+                            "originalRAM": "1410400",
+                            "compressedRAM": "177120",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "50",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "027c5785a7afa5e0225d8930b8297867",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "79"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518738652009963:6623",
+                    "v": {
+                        "infos": {
+                            "originalSize": "19307",
+                            "compressedSize": "3335",
+                            "originalRAM": "269280",
+                            "compressedRAM": "33840",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "51",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "700c853ad34480e6c8d973928d7d98a4",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "76"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518739136432964:9185",
+                    "v": {
+                        "infos": {
+                            "originalSize": "33528",
+                            "compressedSize": "26855",
+                            "originalRAM": "4198320",
+                            "compressedRAM": "526864",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "35",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "bb09e3e1c8c09f13e9bd555cfa7db133",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "77"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518739185435735:9278",
+                    "v": {
+                        "infos": {
+                            "originalSize": "7393",
+                            "compressedSize": "7136",
+                            "originalRAM": "4198320",
+                            "compressedRAM": "526864",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "36",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "3349e862d602cd97ce11343ab4db2bb4",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "78"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518739899277697:14617",
+                    "v": {
+                        "infos": {
+                            "originalSize": "39736",
+                            "compressedSize": "54041",
+                            "originalRAM": "4198320",
+                            "compressedRAM": "526864",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "38",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "e14237312b3bb7abbedc2134bdf55f33",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "80"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518740216803673:28876",
+                    "v": {
+                        "infos": {
+                            "originalSize": "35103",
+                            "compressedSize": "68044",
+                            "originalRAM": "4198320",
+                            "compressedRAM": "526864",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "39",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a40ee5172258a770f833604756100e89",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "86"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518740262107333:29196",
+                    "v": {
+                        "infos": {
+                            "originalSize": "3953",
+                            "compressedSize": "2420",
+                            "originalRAM": "269280",
+                            "compressedRAM": "33840",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "40",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "25b02f90d45fa85d25b0d5ec22c93381",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "82"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518740799102817:30820",
+                    "v": {
+                        "infos": {
+                            "originalSize": "33174",
+                            "compressedSize": "51895",
+                            "originalRAM": "4198320",
+                            "compressedRAM": "526864",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "41",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "756ee50b55f2a8dfd96546f78caa9510",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "83"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518741129529720:45711",
+                    "v": {
+                        "infos": {
+                            "originalSize": "21203",
+                            "compressedSize": "63249",
+                            "originalRAM": "4198320",
+                            "compressedRAM": "526864",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "42",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a8bbeb205ee118ae8a2238b3d17e7a88",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "88"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518741163654405:45773",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11653",
+                            "compressedSize": "7873",
+                            "originalRAM": "269280",
+                            "compressedRAM": "33840",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "43",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "7077c307c97eac06ac748600338d5484",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "84"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518741180955038:45785",
+                    "v": {
+                        "infos": {
+                            "originalSize": "8349",
+                            "compressedSize": "3681",
+                            "originalRAM": "269280",
+                            "compressedRAM": "33840",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "44",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "0381b263eef4ee605d3d3b8d78aed401",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "85"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518742446175688:47885",
+                    "v": {
+                        "infos": {
+                            "originalSize": "30720",
+                            "compressedSize": "42874",
+                            "originalRAM": "4198320",
+                            "compressedRAM": "526864",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "45",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "d62d8d2214c908b0de8492bb192106b8",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "95"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518742519335139:48363",
+                    "v": {
+                        "infos": {
+                            "originalSize": "15531",
+                            "compressedSize": "5557",
+                            "originalRAM": "269280",
+                            "compressedRAM": "33840",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "46",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "0e40f7e6e676928371c0485da4113638",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "87"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518742580946700:48680",
+                    "v": {
+                        "infos": {
+                            "originalSize": "21203",
+                            "compressedSize": "63249",
+                            "originalRAM": "4198320",
+                            "compressedRAM": "526864",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "47",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a8bbeb205ee118ae8a2238b3d17e7a88",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "90"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1518811229378439:22196",
+                    "v": {
+                        "infos": {
+                            "originalSize": "28925",
+                            "compressedSize": "20038",
+                            "originalRAM": "269280",
+                            "compressedRAM": "33840",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "34",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "dfd7e5f0597cb26a02ad1d960b016843",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "89"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1521495337531062:53457",
+                    "v": {
+                        "infos": {
+                            "originalSize": "21203",
+                            "compressedSize": "63249",
+                            "originalRAM": "4198320",
+                            "compressedRAM": "526864",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "37",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a8bbeb205ee118ae8a2238b3d17e7a88",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "94"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1521592506041362:29488",
+                    "v": {
+                        "infos": {
+                            "originalSize": "9357",
+                            "compressedSize": "3549",
+                            "originalRAM": "1410400",
+                            "compressedRAM": "177120",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "30",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "98b380616d4bfed1d0f4bc1dae59944a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "91"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1521592506123858:29501",
+                    "v": {
+                        "infos": {
+                            "originalSize": "18955",
+                            "compressedSize": "9390",
+                            "originalRAM": "4186304",
+                            "compressedRAM": "524480",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "31",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "11f4d5b93501561a110fa6434d320c06",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "92"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1521592506217607:29514",
+                    "v": {
+                        "infos": {
+                            "originalSize": "7395",
+                            "compressedSize": "2201",
+                            "originalRAM": "269280",
+                            "compressedRAM": "33840",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "32",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c3712766256cc2c114e8e8f697694047",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "93"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1637466576331316:49251",
+                    "v": {
+                        "infos": {
+                            "originalSize": "324940",
+                            "compressedSize": "104876",
+                            "originalRAM": "2073600",
+                            "compressedRAM": "259200",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "100",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "1abe4926135ef42e3baf678dc88ff576",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "101"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1637468485176907:276857",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5656",
+                            "compressedSize": "1512",
+                            "originalRAM": "160000",
+                            "compressedRAM": "20000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "122",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "018e9dfe21c1c957ff6febbc3570bb37",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "123"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1637471513712512:616270",
+                    "v": {
+                        "infos": {
+                            "originalSize": "722262",
+                            "compressedSize": "348825",
+                            "originalRAM": "8388608",
+                            "compressedRAM": "8388608",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "130",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "8565a9b3c047571c14e77b7d3b63e57b",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "131"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1637471973891208:653323",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4444",
+                            "compressedSize": "525",
+                            "originalRAM": "4096",
+                            "compressedRAM": "512",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "136",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "92bbc0db9b88d58fd5538047917d20c8",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "144"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1637466970956280:89465",
+                    "v": "6IHq2C3GobYvXg5Y5wErt6"
+                }
+            ]
+        }
+    },
+    "templateName": "Face Paint",
+    "templateUrl": "https:\/\/assets.ctfassets.net\/xyb83mibqg29\/7Ie3hHXPFg9Y5RyoTrVKvA\/793fcd379be013e03df531996a8b4d9e\/Face_Paint.zip"
+}
